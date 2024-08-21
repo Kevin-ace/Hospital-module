@@ -1,12 +1,11 @@
 # -*- coding: utf-8 -*-
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
-
 {
     'name': 'Hospital management',
     'version': '1.0.0',
     'category': 'Hospital',
-    'author': 'Kevin',
+    'author': 'Kevin Kipruto',
     'sequence': -100,
     'summary': 'Hospital management system',
     'description': """hospital management system""",
